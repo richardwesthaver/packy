@@ -1,0 +1,2 @@
+{"name":"spin","vers":"0.5.2","deps":[],"cksum":"6e63cff320ae2c57904679ba7cb63280a3dc4613885beafb148ee7bf9aa9042d","features":{},"yanked":false}
+{"name":"spin","vers":"0.7.1","deps":[{"name":"lock_api_crate","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":null,"package":"lock_api"}],"cksum":"13287b4da9d1207a4f4929ac390916d64eacfe236a487e9a9f5b3be392be5162","features":{"default":["ticket_mutex"],"lock_api":["lock_api_crate"],"std":[],"ticket_mutex":[]},"yanked":false}

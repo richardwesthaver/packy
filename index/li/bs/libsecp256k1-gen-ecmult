@@ -1,0 +1,1 @@
+{"name":"libsecp256k1-gen-ecmult","vers":"0.2.0","deps":[{"name":"libsecp256k1-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"32239626ffbb6a095b83b37a02ceb3672b2443a87a000a884fc3c4d16925c9c0","features":{},"yanked":false}

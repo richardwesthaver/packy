@@ -1,0 +1,1 @@
+{"name":"os_str_bytes","vers":"2.4.0","deps":[{"name":"getrandom","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":null}],"cksum":"afb2e1c3ee07430c2cf76151675e583e0f19985fa6efae47d6848a3e2c824f85","features":{"raw":[]},"yanked":false}

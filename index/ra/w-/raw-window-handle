@@ -1,0 +1,1 @@
+{"name":"raw-window-handle","vers":"0.3.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"0a441a7a6c80ad6473bd4b74ec1c9a4c951794285bf941c2126f607c72e48211","features":{"nightly-docs":[]},"yanked":false}

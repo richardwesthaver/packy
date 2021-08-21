@@ -1,0 +1,1 @@
+{"name":"yew-router-route-parser","vers":"0.14.0","deps":[{"name":"nom","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"49bf2f66f0e61d65d1637523fa1faedd5aa291cf9cb8d8fb200678472279b672","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"wyz","vers":"0.2.0","deps":[],"cksum":"85e60b0d1b5f99db2556934e21937020776a5d31520bf169e851ac44e6420214","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
