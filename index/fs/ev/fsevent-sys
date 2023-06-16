@@ -1,1 +1,0 @@
-{"name":"fsevent-sys","vers":"2.0.1","deps":[{"name":"libc","req":"^0.2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"f41b048a94555da0f42f1d632e2e19510084fb8e303b0daa2816e733fb3644a0","features":{},"yanked":false}
